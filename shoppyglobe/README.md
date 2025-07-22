@@ -64,7 +64,7 @@ npm package manager
 
 bash
 
-git clone https://github.com/YOUR\_GITHUB\_USERNAME/shoppyglobe.git
+git clone https://github.com/VarunBhusari/Shoppy-Globe.git
 
 cd shoppyglobe
 
